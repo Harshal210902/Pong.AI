@@ -11,7 +11,7 @@ TEXT = BLACK
 pygame.init()
 layer_structure = [4, 3]
 
-size = (1000,1000)
+size = (800,600)
 screen = pygame.display.set_mode(size)
 pygame.display.set_caption("pong")
 
